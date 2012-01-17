@@ -8,4 +8,6 @@ set shiftwidth=2
 set number
 " Highlight matched brakect
 set showmatch
-
+" Show TAB code
+set lcs=tab:^I
+set list
